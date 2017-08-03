@@ -1,6 +1,8 @@
 # javalabs2017
 Codes from Labs for Software Development Methods (Java)
 
+LAB01 - WEEK OF 24th JULY
+
 EXERCISE 2.15 - ARITHMETIC
 This is simple application that prompts the user to enter two integers and prints their sum, product, difference, and quotient.
 
