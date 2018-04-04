@@ -1,5 +1,5 @@
 // Lab 4.1: Unique1.java
-// Reads in 5 unique numbers.
+// 30 input numbers between 10 and 500
 import java.util.Scanner;
 
 public class Unique1
