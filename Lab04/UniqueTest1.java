@@ -1,5 +1,5 @@
-// Lab 4.1: UniqueTest.java
-// Test application for class Unique
+// Lab 4.1: UniqueTest1.java
+// Test application for class Unique1
 public class UniqueTest1
 {
    public static void main( String args[] )
