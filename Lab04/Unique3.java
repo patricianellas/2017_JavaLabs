@@ -1,4 +1,4 @@
-// Lab 4.3: Unique.java
+// Lab 4.3: Unique3.java
 // Allows user to enter size of array
 import java.util.Scanner;
 
