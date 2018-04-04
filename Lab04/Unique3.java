@@ -1,5 +1,5 @@
 // Lab 4.3: Unique.java
-// Reads in 5 unique numbers.
+// Allows user to enter size of array
 import java.util.Scanner;
 
 public class Unique3
