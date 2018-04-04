@@ -1,5 +1,5 @@
 // Lab 4.2: Unique2.java
-// Reads in 5 unique numbers.
+// Enter numbers until array is full
 import java.util.Scanner;
 
 public class Unique2
