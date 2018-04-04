@@ -1,4 +1,4 @@
-// Lab 4.2: Unique.java
+// Lab 4.2: Unique2.java
 // Reads in 5 unique numbers.
 import java.util.Scanner;
 
